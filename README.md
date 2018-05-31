@@ -27,10 +27,4 @@ Figure 2 in the paper, illustrates the trajectory of subject (Novice) H's moveme
 
 The colors are obtained using the Class Activation Map values of a given class and then projected on the (x,y,z) coordinates of the master left hand.
 
-You can find in folder "examples" the visualizations for all the subjects and all their trials for the Suturing task for each one of the five cross-validation folds.
-
-![colorbar](https://germain-forestier.info/src/miccai2018/img/color-bar.png)
-
-![Suturing_H004](https://germain-forestier.info/src/miccai2018/img/Suturing/3_out/Suturing_H004.gif)
-
-Subject (novice) H's fourth trial using the Novice Class Activation Map of the third fold.
+You can find [here](https://germain-forestier.info/src/miccai2018/img/) the visualizations for all the subjects and all their trials for the Suturing task for each one of the five cross-validation folds.
