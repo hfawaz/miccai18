@@ -1,3 +1,14 @@
+# This is the source for our paper titled "Evaluating surgical skills from kinematic data using convolutional neural networks" 
+# The paper has been accepted at International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2018.
+# If you find this code to be helpful in your research please do not hesitate to cite our paper. 
+
+###################
+## MICCAI - 2018 ##
+###################
+
+########################################################################################
+## Evaluating surgical skills from kinematic data using convolutional neural networks ##
+########################################################################################
 
 import numpy as np
 import random
