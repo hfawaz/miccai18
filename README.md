@@ -21,6 +21,8 @@ We used the versions listed above, but you should be able to run the code with m
 ## Visualizing the movements' contribution to the classification
 The proposed method uses the Class Activation Map to localize the regions of the surgical task and their corresponding contribution to a certain classification.
 
+A video illustrating the method can be seen [here](https://www.youtube.com/watch?v=1tjyWKREt2U). 
+
 The functions that are used to visualize the trajectories are present in the source code.
 
 Figure 2 in the paper, illustrates the trajectory of subject (Novice) H's movements for the left master manipulator.
