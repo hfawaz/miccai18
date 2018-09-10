@@ -30,3 +30,16 @@ Figure 2 in the paper, illustrates the trajectory of subject (Novice) H's moveme
 The colors are obtained using the Class Activation Map values of a given class and then projected on the (x,y,z) coordinates of the master left hand.
 
 You can find [here](https://germain-forestier.info/src/miccai2018/img/) the visualizations for all the subjects and all their trials for the Suturing task for each one of the five cross-validation folds.
+
+## Reference
+
+If you re-use this work, please cite:
+
+```
+@InProceedings{IsmailFawaz2018evaluating,
+  Title                    = {Evaluating surgical skills from kinematic data using convolutional neural networks},
+  Author                   = {Ismail Fawaz, Hassan and Forestier, Germain and Weber, Jonathan and Idoumghar, Lhassane and Muller, Pierre-Alain},
+  booktitle                = {International Conference On Medical Image Computing and Computer Assisted Intervention (MICCAI)},
+  Year                     = {2018}
+}
+```
