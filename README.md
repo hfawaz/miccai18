@@ -1,5 +1,5 @@
 # Evaluating surgical skills from kinematic data using convolutional neural networks
-This is the companion repository for [our paper](https://arxiv.org/abs/1806.02750) titled "Evaluating surgical skills from kinematic data using convolutional neural networks".
+This is the companion repository for [our paper](https://link.springer.com/chapter/10.1007/978-3-030-00937-3_25) also available on [ArXiv](https://arxiv.org/abs/1806.02750) titled "Evaluating surgical skills from kinematic data using convolutional neural networks".
 This paper has been accepted at the [International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2018](https://www.miccai2018.org).
 
 ## The source code
