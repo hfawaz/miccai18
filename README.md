@@ -7,6 +7,8 @@ The software is developed using Python 3.6, it takes as input the kinematic data
 
 The source code is composed of one python file with the code needed to re-run the experiments. The hyper-parameters published in the paper are present in the source code. The empty folders (in the repository) are necessary so the code could run without the "folder not found error". The content of JIGSAWS.zip (once downloaded) should be placed in the empty folder "JIGSAWS".
 
+If you are looking for more information on how to classify time series with deep learning, also have a look to our paper ["Deep learning for time series classification: a review"](https://arxiv.org/abs/1809.04356). The code of the models compared in this review is available [here](https://github.com/hfawaz/dl-4-tsc).
+
 ## Prerequisites
 * [Keras](https://keras.io/) 2.12.2
 * [Tensorflow](https://www.tensorflow.org/) 1.4.1
