@@ -2,6 +2,9 @@
 This is the companion repository for [our paper](https://link.springer.com/chapter/10.1007/978-3-030-00937-3_25) also available on [ArXiv](https://arxiv.org/abs/1806.02750) titled "Evaluating surgical skills from kinematic data using convolutional neural networks".
 This paper has been accepted at the [International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2018](https://www.miccai2018.org).
 
+## Architecture
+![architecture fcn](https://github.com/hfawaz/miccai18/blob/master/archi.png)
+
 ## The source code
 The software is developed using Python 3.6, it takes as input the kinematic data and predicts the subject's skill level. We trained the model on an NVIDIA GPU GTX 1080 (this is only necessary to speed up the calculations). You will need the [JIGSAWS dataset](https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/) to re-run the experiments of the paper. 
 
