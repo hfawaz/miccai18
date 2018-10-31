@@ -33,6 +33,7 @@ Figure 2 in the paper, illustrates the trajectory of subject (Novice) H's moveme
 The colors are obtained using the Class Activation Map values of a given class and then projected on the (x,y,z) coordinates of the master left hand.
 
 You can find [here](https://germain-forestier.info/src/miccai2018/img/) the visualizations for all the subjects and all their trials for the Suturing task for each one of the five cross-validation folds.
+
 Frame             |  Trajectory explained
 :-------------------------:|:-------------------------:
 ![snap](https://github.com/hfawaz/miccai18/blob/master/snapshot-7.png)  |  ![cam](https://github.com/hfawaz/miccai18/blob/master/cam-7.png)
